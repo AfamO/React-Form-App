@@ -2,7 +2,7 @@ import React from "react"
 //import {createStackNavigator} from "react-navigation-stack";
 
 
-class App extends React.Component{
+class Application extends React.Component{
     constructor(props){
         super(props)
         this.state={
